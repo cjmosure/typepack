@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+node_modules/
+bower_components/
+*.orig
+*.iws
+.idea_modules/
+npm-debug.log
+.tscache
+\tscommand*
+dist/
